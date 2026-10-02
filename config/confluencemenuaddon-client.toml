@@ -1,0 +1,45 @@
+#Which screens show the animated background.
+[menus]
+#Show the animated background on the main menu.
+enableMainMenu = true
+#Show the animated background on the world select screen.
+enableWorldSelectScreen = true
+#Show the animated background on the multiplayer server list.
+enableMultiplayerScreen = true
+#Show the animated background on the options screen.
+enableOptionsScreen = true
+#Show the animated background on the create world screen.
+enableCreateWorldScreen = true
+#Show the animated background on the mods list screen.
+enableModListScreen = true
+#Show the animated background on a mod's configuration screen (opened via the "Config" button on the mods list).
+enableConfigScreen = true
+#Show the animated background on the accessibility settings screen.
+enableAccessibilityScreen = true
+#Show the animated background on the language selection screen.
+enableLanguageScreen = true
+#Other screens to show the background on, listed by their full class name.
+#Example: "net.minecraft.client.gui.screens.PauseScreen"
+#Only works on screens that use the default background; screens with a fully custom background of their own will need extra work to support.
+additionalScreens = []
+
+#How the animated background moves.
+[animation]
+#How fast the background sky, sun, moon, and clouds scroll. 0 keeps it still.
+# Default: 1.0
+# Range: 0.0 ~ 10.0
+backgroundAnimationSpeed = 1.0
+#How fast the background scenery scrolls sideways. 0 keeps it still.
+# Default: 4.0
+# Range: 0.0 ~ 10.0
+environmentScrollSpeed = 4.0
+#Which direction the background scenery scrolls.
+#Allowed Values: LEFT_TO_RIGHT, RIGHT_TO_LEFT
+environmentScrollDirection = "LEFT_TO_RIGHT"
+
+#Hidden extras.
+[extra]
+#Clicking the sun or moon on the animated background swaps the main menu's "MINECRAFT" logo to an older version until the game restarts.
+enableSunClickLogo = true
+#Replace the main menu's splash text with one of Confluence: Otherworld's own randomized window title lines instead of a vanilla Minecraft splash.
+enableConfluenceSplashText = true

@@ -1,0 +1,30 @@
+#Mount Steering Settings
+[mount]
+	#Per-tick turn factor for the decoupled mount-rotate body lerp.
+	#Lower = smoother/slower turn. 0.15 = very smooth, 0.25 = balanced, 0.5 = snappy.
+	# Default: 0.25
+	# Range: 0.05 ~ 1.0
+	mountTurnSpeed = 0.25
+	#Smooth BLO's mount lock-on body rotation. When true, replaces BLO's
+	#discrete 8-direction snap on a mount with a per-tick ease-out lerp.
+	#Set false to fall back to BLO's vanilla snap behavior.
+	smoothLockOnMountTurn = true
+	#Per-tick lerp factor for body yaw during BLO + mount lock-on.
+	#0.10 = very smooth, long trail. 0.5 = balanced. 0.85 = responsive.
+	#1.0 = no smoothing (BLO's snap passes through unchanged).
+	# Default: 0.5
+	# Range: 0.05 ~ 1.0
+	bloLockOnTurnSmoothness = 0.5
+	#After releasing a ranged/aim item (bow, crossbow, spear, shield) while mounted,
+	#keep Epic Fight's TPS aiming camera suppressed for this many extra ticks before
+	#the mount-steering body-rotate camera takes over again.
+	#0 = disabled (current behavior, camera swaps back instantly).
+	#20 ticks = 1 second.
+	# Default: 0
+	# Range: 0 ~ 200
+	tpsAimLingerTicks = 0
+	#Body behavior when you stop moving on a mount. HOLD_DIRECTION (default): body
+	#keeps the direction it was moving in until you move again or leave 3rd-person
+	#back. FACE_CAMERA: body lerps back to the camera direction on stop.
+	#Allowed Values: FACE_CAMERA, HOLD_DIRECTION
+	idleBehavior = "HOLD_DIRECTION"

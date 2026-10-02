@@ -1,0 +1,2406 @@
+[
+  {
+    "timestamp": 1787609789332,
+    "reload_number": 1,
+    "total_ms": 7803,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 188
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 34
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_chipped",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from sophisticateditemactions",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 4
+      },
+      {
+        "name": "Initializing plugin from sophisticatedcore",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from smithingtemplateviewer",
+        "duration_ms": 3
+      },
+      {
+        "name": "Initializing plugin from ftblibrary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticated_jei_index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedstorage",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_core",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedstorageinmotion",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 7
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 70
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 1138
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 781
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_chipped",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 203
+      },
+      {
+        "name": "Loading plugin from sophisticateditemactions",
+        "duration_ms": 15
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from sophisticatedcore",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 160
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from smithingtemplateviewer",
+        "duration_ms": 102
+      },
+      {
+        "name": "Loading plugin from ftblibrary",
+        "duration_ms": 16
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticated_jei_index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticatedstorage",
+        "duration_ms": 22
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 354
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_core",
+        "duration_ms": 125
+      },
+      {
+        "name": "Loading plugin from sophisticatedstorageinmotion",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 544
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 12
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 11
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Alchemy Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Altar",
+        "duration_ms": 48
+      },
+      {
+        "name": "Loading JEI data for Armor Set Bonus",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Use the Brewing Stand to craft Terra Potions",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Chlorophyte Extractinator",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Cooking Pot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crystal Ball",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Dye Vat",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Extractinator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fletching Table",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Hardmode Anvil",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Hardmode Forge",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Heavy Work Bench",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Hell Forge",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Shimmer Transmutation",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Loom",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Sky Mill",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Solidifier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Workshop",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Terra Shop",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Glass Kiln",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Ice Machine",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Living Loom",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Loot Crates",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Quests",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 77
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 104
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 32
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 3639
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 4
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 11
+      }
+    ],
+    "phases": [
+      {
+        "name": "getCraftables",
+        "duration_ms": 15
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 63
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 63
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 7
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 7
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 5
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1787609781534
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1787609781550
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1787609781771
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1787609781844
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1787609785542
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1787609785678
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1787609789299
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1787609789300
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1787609789317
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1787609789317
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1787609789321
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1787609789321
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1787609789326
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1787609789328
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1787609789332
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1787609789332
+      }
+    ]
+  },
+  {
+    "timestamp": 1790529743102,
+    "reload_number": 1,
+    "total_ms": 11025,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 85
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 18
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_chipped",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticateditemactions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedcore",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from smithingtemplateviewer",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from ftblibrary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticated_jei_index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedstorage",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_core",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedstorageinmotion",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 2
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 74
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 105
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 555
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_chipped",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 292
+      },
+      {
+        "name": "Loading plugin from sophisticateditemactions",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from sophisticatedcore",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 82
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from smithingtemplateviewer",
+        "duration_ms": 99
+      },
+      {
+        "name": "Loading plugin from ftblibrary",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticated_jei_index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticatedstorage",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 287
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_core",
+        "duration_ms": 205
+      },
+      {
+        "name": "Loading plugin from sophisticatedstorageinmotion",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 925
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 12
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 6
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Создание",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Наковальня",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Дутьё",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Варка",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Приготовление на костре",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Биоразлагаемость",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Топливо",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Точило",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Плавка",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Стол кузнеца",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Копчение",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Резка камня",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Алхимический стол",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Алтарь",
+        "duration_ms": 24
+      },
+      {
+        "name": "Loading JEI data for Armor Set Bonus",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Use the Brewing Stand to craft Terra Potions",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Хлорофитовый экстрактор",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Котёл",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Хрустальный шар",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Dye Vat",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Экстрактор",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Стол лучника",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Hardmode Anvil",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Hardmode Forge",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Тяжёлый верстак",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Адская кузня",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Превращение в мерцании",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Loom",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Лесопилка",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Небесная мельница",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Solidifier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Сведения",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Workshop",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Terra Shop",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Glass Kiln",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Ice Machine",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Living Loom",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Ящики лута",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Квесты",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 14
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 106
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 96
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 7926
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 11
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 23
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 6
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 15
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 15
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1790529732078
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1790529732087
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1790529732187
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1790529732272
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1790529734940
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1790529735143
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1790529743047
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1790529743066
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1790529743068
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1790529743069
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1790529743079
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1790529743079
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1790529743085
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1790529743100
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1790529743102
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1790529743102
+      }
+    ]
+  },
+  {
+    "timestamp": 1790530824689,
+    "reload_number": 2,
+    "total_ms": 6093,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 9
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_chipped",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticateditemactions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedcore",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from smithingtemplateviewer",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ftblibrary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticated_jei_index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedstorage",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_core",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedstorageinmotion",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 93
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 68
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 303
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_chipped",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 217
+      },
+      {
+        "name": "Loading plugin from sophisticateditemactions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from sophisticatedcore",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from smithingtemplateviewer",
+        "duration_ms": 58
+      },
+      {
+        "name": "Loading plugin from ftblibrary",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticated_jei_index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticatedstorage",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 130
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_core",
+        "duration_ms": 89
+      },
+      {
+        "name": "Loading plugin from sophisticatedstorageinmotion",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 341
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 4
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Создание",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Наковальня",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Дутьё",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Варка",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Приготовление на костре",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Биоразлагаемость",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Топливо",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Точило",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Плавка",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Стол кузнеца",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Копчение",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Резка камня",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Алхимический стол",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Алтарь",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Armor Set Bonus",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Use the Brewing Stand to craft Terra Potions",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Хлорофитовый экстрактор",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Котёл",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Хрустальный шар",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Dye Vat",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Экстрактор",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Стол лучника",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Hardmode Anvil",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Hardmode Forge",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Тяжёлый верстак",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Адская кузня",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Превращение в мерцании",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Loom",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Лесопилка",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Небесная мельница",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Solidifier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Сведения",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Workshop",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Terra Shop",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Glass Kiln",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Ice Machine",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Living Loom",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Ящики лута",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Квесты",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 79
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 17
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 4629
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 2
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 2
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1790530818596
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1790530818597
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1790530818606
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1790530818700
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1790530819962
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1790530820059
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1790530824675
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1790530824676
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1790530824687
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1790530824687
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1790530824687
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1790530824687
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1790530824689
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1790530824689
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1790530824689
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1790530824689
+      }
+    ]
+  },
+  {
+    "timestamp": 1790711837337,
+    "reload_number": 1,
+    "total_ms": 8588,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 104
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 49
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_chipped",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from sophisticateditemactions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from sophisticatedcore",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from smithingtemplateviewer",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from ftblibrary",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticated_jei_index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedstorage",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from extra_mod_integrations_core",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from sophisticatedstorageinmotion",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 3
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 47
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 67
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_pneumaticcraft",
+        "duration_ms": 402
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_chipped",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emiffect",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 119
+      },
+      {
+        "name": "Loading plugin from sophisticateditemactions",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_rechiseled",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_farmers_delight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from sophisticatedcore",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticatedbackpacks",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_reliquary",
+        "duration_ms": 93
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from smithingtemplateviewer",
+        "duration_ms": 39
+      },
+      {
+        "name": "Loading plugin from ftblibrary",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_irons_spellbooks",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_actually_additions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticated_jei_index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from sophisticatedstorage",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 257
+      },
+      {
+        "name": "Loading plugin from extra_mod_integrations_core",
+        "duration_ms": 58
+      },
+      {
+        "name": "Loading plugin from sophisticatedstorageinmotion",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 665
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 7
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 7
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Создание",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Наковальня",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Дутьё",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Варка",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Приготовление на костре",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Биоразлагаемость",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Топливо",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Точило",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Плавка",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Стол кузнеца",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Копчение",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Резка камня",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Алхимический стол",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Алтарь",
+        "duration_ms": 24
+      },
+      {
+        "name": "Loading JEI data for Armor Set Bonus",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Use the Brewing Stand to craft Terra Potions",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Хлорофитовый экстрактор",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Котёл",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Хрустальный шар",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Dye Vat",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Экстрактор",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Стол лучника",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Hardmode Anvil",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Hardmode Forge",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Тяжёлый верстак",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Адская кузня",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Превращение в мерцании",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Loom",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Лесопилка",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Небесная мельница",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Solidifier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Сведения",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Workshop",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Terra Shop",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Glass Kiln",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Ice Machine",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Living Loom",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Ящики лута",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Квесты",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 19
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 72
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 38
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 6380
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 7
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 50
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 3
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 11
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 11
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1790711828750
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1790711828760
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1790711828910
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1790711828959
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1790711830790
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1790711830901
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1790711837259
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1790711837265
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1790711837280
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1790711837280
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1790711837287
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1790711837287
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1790711837323
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1790711837334
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1790711837337
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1790711837337
+      }
+    ]
+  }
+]

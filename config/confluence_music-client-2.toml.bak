@@ -1,0 +1,4 @@
+musicType = "confluence_music:confluence"
+# Default: 2400
+# Range: 10 ~ 18000
+nextSongDelay = 2400
