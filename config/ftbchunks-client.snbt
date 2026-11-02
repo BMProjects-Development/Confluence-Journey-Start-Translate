@@ -138,57 +138,57 @@
 		# Default: true
 		entity_heads: false
 		entity_icon: {
-			"minecraft:silverfish": true
 			"minecraft:camel": true
-			"minecraft:cow": true
-			"minecraft:glow_squid": true
-			"terra_entity:duck": true
-			"minecraft:villager": true
-			"terra_entity:eater_of_souls": true
-			"terra_entity:painter": true
-			"minecraft:skeleton": true
-			"minecraft:chicken": true
-			"terra_entity:black_slime": true
-			"minecraft:squid": true
-			"minecraft:sheep": true
-			"terra_entity:giant_shelly": true
-			"minecraft:cat": true
-			"terra_entity:green_slime": true
-			"minecraft:bat": true
-			"terra_entity:squirrel": true
-			"minecraft:turtle": true
-			"minecraft:bee": true
-			"minecraft:iron_golem": true
-			"minecraft:pufferfish": false
-			"terra_entity:guide": true
-			"minecraft:dolphin": true
-			"minecraft:zombie": true
-			"terra_entity:blue_jay": true
-			"terra_entity:purple_slime": true
-			"terra_entity:decayeder": true
-			"minecraft:cod": false
-			"minecraft:pig": true
-			"terra_entity:man_eater": true
-			"terra_entity:blue_slime": true
-			"minecraft:spider": true
-			"minecraft:creeper": true
-			"terra_entity:cave_bat": true
-			"minecraft:donkey": true
-			"minecraft:armadillo": true
-			"terra_entity:bunny": true
-			"terra_entity:cardinal": true
-			"terra_entity:merchant": true
-			"terra_entity:red_slime": true
-			"minecraft:allay": true
-			"minecraft:axolotl": true
-			"minecraft:horse": true
-			"terra_entity:devourer": true
-			"terra_entity:yellow_slime": true
-			"minecraft:enderman": true
 			"terra_entity:ice_bat": true
+			"terra_entity:blue_jay": true
+			"minecraft:dolphin": true
+			"minecraft:chicken": true
+			"minecraft:turtle": true
 			"minecraft:tropical_fish": false
+			"terra_entity:man_eater": true
+			"terra_entity:devourer": true
+			"minecraft:pufferfish": false
+			"terra_entity:squirrel": true
 			"minecraft:polar_bear": true
+			"minecraft:cod": false
+			"terra_entity:yellow_slime": true
+			"terra_entity:red_slime": true
+			"terra_entity:decayeder": true
+			"terra_entity:blue_slime": true
+			"minecraft:skeleton": true
+			"minecraft:bee": true
+			"minecraft:donkey": true
+			"minecraft:enderman": true
+			"minecraft:sheep": true
+			"terra_entity:merchant": true
+			"terra_entity:duck": true
+			"minecraft:squid": true
+			"minecraft:cow": true
+			"minecraft:allay": true
+			"terra_entity:guide": true
+			"minecraft:zombie": true
+			"minecraft:glow_squid": true
+			"minecraft:villager": true
+			"terra_entity:bunny": true
+			"minecraft:cat": true
+			"minecraft:creeper": true
+			"terra_entity:black_slime": true
+			"minecraft:iron_golem": true
+			"minecraft:axolotl": true
+			"minecraft:pig": true
+			"minecraft:silverfish": true
+			"minecraft:horse": true
+			"minecraft:bat": true
+			"terra_entity:green_slime": true
+			"terra_entity:cardinal": true
 			"terra_entity:hornet": true
+			"terra_entity:eater_of_souls": true
+			"terra_entity:cave_bat": true
+			"minecraft:spider": true
+			"terra_entity:giant_shelly": true
+			"terra_entity:painter": true
+			"minecraft:armadillo": true
+			"terra_entity:purple_slime": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

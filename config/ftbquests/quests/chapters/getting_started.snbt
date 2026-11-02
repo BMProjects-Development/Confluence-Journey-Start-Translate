@@ -17,27 +17,68 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: 0.0d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
-			height: 6.0d
+			click_action: "none:"
+			height: 8.0d
 			id: "61D3FDEA73A1A645"
 			image: "confluence:textures/achievement/leading_landlord.png"
 			order: 1
 			rotation: 0.0d
-			width: 6.0d
+			width: 8.0d
 			x: 0.0d
 			y: 0.5d
 		}
 		{
-			height: 10.0d
+			click_action: "none:"
+			height: 15.0d
 			id: "1C055F791F9490FC"
 			image: "confluence:block/marble_cave/marble_cave_pot_top_2"
 			order: -1
 			rotation: 0.0d
-			width: 10.0d
+			width: 15.0d
 			x: 0.0d
 			y: 0.5d
+		}
+		{
+			click_action: "open_uri:https://boosty.to/barmaxx"
+			height: 1.0d
+			id: "2DA093928FE7A757"
+			image: "ftb:textures/quests/other_titles_and_logos/boosty.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 1.0d
+		}
+		{
+			click_action: "open_uri:https://github.com/BMProjects-Development"
+			height: 1.0d
+			id: "1FB738232F4CEE96"
+			image: "ftb:textures/quests/other_titles_and_logos/github.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			id: "682A7CFEF6E430CC"
+			image: "ftb:textures/quests/other_titles_and_logos/discord.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			click_action: "open_uri:https://t.me/BMProjects"
+			height: 1.0d
+			id: "10B0A038E36734E8"
+			image: "ftb:textures/quests/other_titles_and_logos/telegram.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 0.0d
 		}
 	]
 	order_index: 0
@@ -93,7 +134,7 @@
 				type: "checkmark"
 			}]
 			x: 1.0d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			icon: {
@@ -118,7 +159,7 @@
 				type: "checkmark"
 			}]
 			x: -1.0d
-			y: 1.5d
+			y: 0.5d
 		}
 	]
 }
